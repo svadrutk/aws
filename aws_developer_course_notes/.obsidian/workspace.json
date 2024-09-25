@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "69bec20be841c6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a70764e6aa88bf57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62cfef2328dae96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Amazon EC2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b71df2ac90a7d4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db8a12115dd4283b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AWS Certified Developer Slides v35.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62b4ebb103024bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8313cc420115ad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa4ac359063aedf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43636eaa109e7f9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bb2839b755e5330",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2284cb7e3faf446f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3414bd54686d800d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e3d3f5c55a79d3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Amazon EC2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b20338092688677d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Amazon EC2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22b1478220df2b41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18ad92e4bd3af1b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Amazon EC2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62cfef2328dae96a",
+  "lastOpenFiles": [
+    "3. Amazon EC2.md",
+    "EC2Tutorial.pem",
+    "1. Getting Started with AWS.md",
+    "Pasted image 20240924163544.png",
+    "AWS Certified Developer Slides v35.pdf",
+    "2. AWS Identity & Access Management (AWS IAM).md",
+    "imgs/Pasted image 20240804191720.png",
+    "imgs/Pasted image 20240804192535.png",
+    "imgs",
+    "Welcome.md"
+  ]
+}

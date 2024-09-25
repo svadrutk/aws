@@ -1,0 +1,13 @@
+
+ul li::marker {
+     color: blue;
+     font-size: 1.2em;
+ }
+
+ ul ul li::marker {
+    color: yellow;
+}
+
+:root body {
+  --bold-color: orange;
+}
