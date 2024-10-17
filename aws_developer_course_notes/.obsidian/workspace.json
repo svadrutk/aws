@@ -4,29 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "a70764e6aa88bf57",
+        "id": "69a2e84829eec362",
         "type": "tabs",
         "children": [
           {
-            "id": "62cfef2328dae96a",
+            "id": "d882f18a35a09f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Amazon EC2.md",
+                "file": "16. AWS CloudFormation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98b165126a280c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. AWS Integration & Messaging.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "b71df2ac90a7d4cb",
+        "id": "ddc2534052dc997f",
         "type": "tabs",
         "children": [
           {
-            "id": "db8a12115dd4283b",
+            "id": "5a2e62caa1447044",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "event rule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Amazon EC2.md",
+                "file": "17. AWS Integration & Messaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Amazon EC2.md",
+                "file": "17. AWS Integration & Messaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Amazon EC2.md"
+                "file": "17. AWS Integration & Messaging.md"
               }
             }
           }
@@ -162,16 +175,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62cfef2328dae96a",
+  "active": "98b165126a280c4e",
   "lastOpenFiles": [
-    "3. Amazon EC2.md",
-    "EC2Tutorial.pem",
-    "1. Getting Started with AWS.md",
-    "Pasted image 20240924163544.png",
     "AWS Certified Developer Slides v35.pdf",
+    "17. AWS Integration & Messaging.md",
+    "Pasted image 20241016163126.png",
+    "11. S3 Advanced.md",
+    "Pasted image 20241016154553.png",
+    "9. Amazon S3 Introduction.md",
+    "12. S3 Security.md",
+    "Pasted image 20241016150549.png",
+    "5. High Availability and Scalability.md",
+    "Pasted image 20241016145604.png",
+    "16. AWS CloudFormation.md",
+    "15. AWS Elastic Beanstalk.md",
+    "4. Amazon EC2 Instance Storage.md",
+    "6. RDS + Aurora + Elasticache.md",
+    "14. Containers on AWS.md",
+    "13. Amazon CloudFront.md",
+    "7. Route 53.md",
     "2. AWS Identity & Access Management (AWS IAM).md",
-    "imgs/Pasted image 20240804191720.png",
-    "imgs/Pasted image 20240804192535.png",
+    "imgs/Pasted image 20240930133714.png",
+    "1. Getting Started with AWS.md",
+    "10.  AWS CLI, SDK, IAM Roles & Policies.md",
+    "8. Amazon VPC.md",
+    "3. Amazon EC2 Fundamentals.md",
+    "imgs/Pasted image 20240927155626.png",
+    "imgs/Pasted image 20240927155221.png",
+    "imgs/Pasted image 20240927154527.png",
+    "imgs/Pasted image 20240924163544.png",
+    "Untitled",
+    "imgs/Pasted image 20240927144309.png",
+    "EC2Tutorial.pem",
     "imgs",
     "Welcome.md"
   ]
