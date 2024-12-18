@@ -1,9 +1,0 @@
-{
-  "cssTheme": "Minimal",
-  "interfaceFontFamily": "Helvetica Neue",
-  "textFontFamily": "Space Mono",
-  "translucency": true,
-  "enabledCssSnippets": [
-    "bullets"
-  ]
-}
