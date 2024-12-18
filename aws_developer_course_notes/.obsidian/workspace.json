@@ -4,51 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "69a2e84829eec362",
+        "id": "5501a51bdb937293",
         "type": "tabs",
         "children": [
           {
-            "id": "d882f18a35a09f0d",
+            "id": "d17dbf33f0821479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16. AWS CloudFormation.md",
+                "file": "27. Advanced Identity.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "27. Advanced Identity"
             }
           },
           {
-            "id": "98b165126a280c4e",
+            "id": "5ab24a45a0fc6684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17. AWS Integration & Messaging.md",
+                "file": "28. AWS Security + Encryption.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "28. AWS Security + Encryption"
+            }
+          },
+          {
+            "id": "f1951bdf94ac63a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28. AWS Security + Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28. AWS Security + Encryption"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "ddc2534052dc997f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a2e62caa1447044",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AWS Certified Developer Slides v35.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -77,13 +81,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "event rule",
+                "query": "envelope",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -114,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17. AWS Integration & Messaging.md",
+                "file": "19. AWS Lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 19. AWS Lambda"
             }
           },
           {
@@ -131,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17. AWS Integration & Messaging.md",
+                "file": "19. AWS Lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 19. AWS Lambda"
             }
           },
           {
@@ -145,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -154,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17. AWS Integration & Messaging.md"
-              }
+                "file": "19. AWS Lambda.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 19. AWS Lambda"
             }
           }
         ]
@@ -175,39 +191,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98b165126a280c4e",
+  "active": "baa4ac359063aedf",
   "lastOpenFiles": [
-    "AWS Certified Developer Slides v35.pdf",
-    "17. AWS Integration & Messaging.md",
-    "Pasted image 20241016163126.png",
-    "11. S3 Advanced.md",
-    "Pasted image 20241016154553.png",
-    "9. Amazon S3 Introduction.md",
-    "12. S3 Security.md",
-    "Pasted image 20241016150549.png",
-    "5. High Availability and Scalability.md",
-    "Pasted image 20241016145604.png",
-    "16. AWS CloudFormation.md",
+    "20. Amazon DynamoDB.md",
+    "19. AWS Lambda.md",
     "15. AWS Elastic Beanstalk.md",
-    "4. Amazon EC2 Instance Storage.md",
-    "6. RDS + Aurora + Elasticache.md",
+    "25. Amazon Cognito.md",
+    "24. CDK (Cloud Development Kit).md",
     "14. Containers on AWS.md",
-    "13. Amazon CloudFront.md",
-    "7. Route 53.md",
-    "2. AWS Identity & Access Management (AWS IAM).md",
-    "imgs/Pasted image 20240930133714.png",
-    "1. Getting Started with AWS.md",
-    "10.  AWS CLI, SDK, IAM Roles & Policies.md",
+    "16. AWS CloudFormation.md",
     "8. Amazon VPC.md",
-    "3. Amazon EC2 Fundamentals.md",
+    "26. Other Serverless Stuff.md",
+    "29. Other Services.md",
+    "28. AWS Security + Encryption.md",
+    "18. AWS Monitoring, Troubleshooting, Audit.md",
+    "21. Amazon API Gateway.md",
+    "23. AWS Serverless Application Model (SAM).md",
+    "6. RDS + Aurora + Elasticache.md",
+    "11. S3 Advanced.md",
+    "17. AWS Integration & Messaging.md",
+    "27. Advanced Identity.md",
+    "22. AWS CICD.md",
+    "5. High Availability and Scalability.md",
+    "13. Amazon CloudFront.md",
+    "12. S3 Security.md",
+    "10.  AWS CLI, SDK, IAM Roles & Policies.md",
+    "9. Amazon S3 Introduction.md",
+    "AWS Certified Developer Slides v35.pdf",
+    "4. Amazon EC2 Instance Storage.md",
+    "7. Route 53.md",
+    "Pasted image 20241022195351.png",
+    "Pasted image 20241021191158.png",
+    "Untitled 1",
+    "Untitled",
+    "Pasted image 20241016163126.png",
+    "Pasted image 20241016154553.png",
+    "Pasted image 20241016150549.png",
+    "Pasted image 20241016145604.png",
+    "imgs/Pasted image 20240930133714.png",
     "imgs/Pasted image 20240927155626.png",
     "imgs/Pasted image 20240927155221.png",
     "imgs/Pasted image 20240927154527.png",
-    "imgs/Pasted image 20240924163544.png",
-    "Untitled",
-    "imgs/Pasted image 20240927144309.png",
     "EC2Tutorial.pem",
-    "imgs",
-    "Welcome.md"
+    "imgs"
   ]
 }
